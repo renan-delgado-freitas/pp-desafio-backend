@@ -43,9 +43,9 @@ users: Dict[int, dict] = {
         "is_merchant": True
     },
     5: {
-        "name": "Renan Freitas",
+        "name": "Renan",
         "cpf_cnpj": "12345678904",
-        "email": "renanfreeiitas@gmail.com",
+        "email": "renan@gmail.com",
         "password": "12345678",
         "balance": 450.50,
         "is_merchant": False
